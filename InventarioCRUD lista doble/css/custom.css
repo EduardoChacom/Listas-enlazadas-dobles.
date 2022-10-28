@@ -1,0 +1,38 @@
+div{
+  /* outline: 2px black solid; */
+}
+
+.table{
+  width: 100%;
+}
+
+.historial{
+  padding: 10px;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+.centerColumn{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+input{
+  width: 100%;
+}
+
+.fullWidth{
+  width: 100%;
+  border-color: red;
+}
+
+.busqueda{
+  padding: 10px;
+  border-radius: 4px;
+  margin-top: 30px;
+  outline: 1px solid #bbb;
+}
